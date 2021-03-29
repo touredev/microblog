@@ -50,7 +50,7 @@ pycodestyle==2.5.0
 pycrypto==2.6.1
 pycups==1.9.73
 pyenchant==2.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.26.1
 PyJWT==1.5.3
 pymacaroons==0.13.0
